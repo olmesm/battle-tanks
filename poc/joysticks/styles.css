@@ -1,0 +1,24 @@
+#main-touch-area {
+  height: 10000px;
+  width: 100%;
+  background-color: #e8e8e8;
+}
+.text {
+  color: white;
+  font-size: 40px;
+}
+
+#left {
+  height: 100%;
+  width: 35%;
+  display: inline-block;
+  background: grey;
+}
+
+#right {
+  height: 100%;
+  width: 35%;
+  float: right;
+  display: inline-block;
+  background: gray;
+}
